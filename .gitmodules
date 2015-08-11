@@ -1,0 +1,18 @@
+[submodule "gedit-advancedfind"]
+	path = gedit-advancedfind
+	url = ssh+git://aur@aur.archlinux.org/gedit-advancedfind.git/
+[submodule "grub2-theme-archlinux"]
+	path = grub2-theme-archlinux
+	url = ssh+git://aur@aur.archlinux.org/grub2-theme-archlinux.git/
+[submodule "grub2-theme-archxion"]
+	path = grub2-theme-archxion
+	url = ssh+git://aur@aur.archlinux.org/grub2-theme-archxion.git/
+[submodule "nano-syntax-highlighting-git"]
+	path = nano-syntax-highlighting-git
+	url = ssh+git://aur@aur.archlinux.org/nano-syntax-highlighting-git.git/
+[submodule "tor-browser-pt"]
+	path = tor-browser-pt
+	url = ssh+git://aur@aur.archlinux.org/tor-browser-pt.git/
+[submodule "vimix-icon-theme"]
+	path = vimix-icon-theme
+	url = ssh+git://aur@aur.archlinux.org/vimix-icon-theme.git/
