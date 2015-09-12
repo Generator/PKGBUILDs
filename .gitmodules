@@ -16,3 +16,6 @@
 [submodule "vimix-icon-theme"]
 	path = vimix-icon-theme
 	url = ssh+git://aur@aur.archlinux.org/vimix-icon-theme.git/
+[submodule "connman-gtk"]
+	path = connman-gtk
+	url = ssh://aur@aur.archlinux.org/connman-gtk
