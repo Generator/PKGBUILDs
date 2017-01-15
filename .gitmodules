@@ -18,4 +18,7 @@
 	url = ssh+git://aur@aur.archlinux.org/vimix-icon-theme.git/
 [submodule "connman-gtk"]
 	path = connman-gtk
-	url = ssh://aur@aur.archlinux.org/connman-gtk
+	url = ssh+git://aur@aur.archlinux.org/connman-gtk
+[submodule "keepass-plugin-keesecuritycheck"]
+	path = keepass-plugin-keesecuritycheck
+	url = ssh+git://aur@aur.archlinux.org/keepass-plugin-keesecuritycheck.git
