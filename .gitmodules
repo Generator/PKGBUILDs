@@ -22,3 +22,21 @@
 [submodule "keepass-plugin-keesecuritycheck"]
 	path = keepass-plugin-keesecuritycheck
 	url = ssh+git://aur@aur.archlinux.org/keepass-plugin-keesecuritycheck.git
+[submodule "grub2-theme-preview"]
+	path = grub2-theme-preview
+	url = ssh+git://aur@aur.archlinux.org/grub2-theme-preview.git
+[submodule "keepass-plugin-simpledatabasebackup"]
+	path = keepass-plugin-simpledatabasebackup
+	url = ssh+git://aur@aur.archlinux.org/keepass-plugin-simpledatabasebackup.git
+[submodule "keepass-pt"]
+	path = keepass-pt
+	url = ssh+git://aur@aur.archlinux.org/keepass-pt.git
+[submodule "mconnect-git"]
+	path = mconnect-git
+	url = ssh+git://aur@aur.archlinux.org/mconnect-git.git
+[submodule "keepass-plugin-quicksearch"]
+	path = keepass-plugin-quicksearch
+	url = ssh+git://aur@aur.archlinux.org/keepass-plugin-quicksearch.git
+[submodule "keepass-plugin-qualityhighlighter"]
+	path = keepass-plugin-qualityhighlighter
+	url = ssh+git://aur@aur.archlinux.org/keepass-plugin-qualityhighlighter.git
